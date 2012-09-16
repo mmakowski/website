@@ -3,6 +3,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <meta name="google-site-verification" content="cVvYc9qXOvJLk8img75XRz7R0mk1pDwMsHOYLHCvSrw" />
   $if(feed)$
   <link href="$base$/_feed/" type="application/atom+xml" rel="alternate" title="Sitewide ATOM Feed" />
   <link href="$base$/_feed$pageUrl$" type="application/atom+xml" rel="alternate" title="This page's ATOM Feed" />
@@ -39,5 +40,14 @@
   $javascripts$
   $expire()$
   $getuser()$
+  <script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write("\<script src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'>\<\/script>" );
+  </script>
+  <script type="text/javascript">
+    var pageTracker = _gat._getTracker("UA-866665-1");
+    pageTracker._initData();
+    pageTracker._trackPageview();
+  </script>
 </body>
 </html>
