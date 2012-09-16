@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="200"
+   height="200"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.48.3.1 r9886"
+   version="1.0"
+   sodipodi:docname="favicon.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mstart"
+       style="overflow:visible">
+      <path
+         id="path18691"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none"
+         transform="scale(0.4) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Mend"
+       style="overflow:visible;">
+      <path
+         id="path18694"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none;"
+         transform="scale(0.4) rotate(180) translate(10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend"
+       style="overflow:visible;">
+      <path
+         id="path18688"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none;"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#000000"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="4"
+     inkscape:cx="49.420032"
+     inkscape:cy="98.792373"
+     inkscape:document-units="px"
+     inkscape:current-layer="g9104"
+     width="200px"
+     height="200px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1176"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     showgrid="false"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g11927"
+       inkscape:export-filename="c:\Documents and Settings\Maciek\My Documents\My Programs\personal_website3\logo.png"
+       inkscape:export-xdpi="82.473473"
+       inkscape:export-ydpi="82.473473"
+       transform="translate(-3.2029722,1.7794295)"
+       style="fill:#000000">
+      <g
+         id="g9104">
+        <rect
+           style="fill:#385f85;fill-opacity:1;stroke:#3a3a3a;stroke-width:0.98505229;stroke-opacity:0"
+           id="rect4409"
+           width="131.96461"
+           height="132"
+           x="13.202972"
+           y="29.97057"
+           inkscape:export-filename="/home/mmakowski/Projects/website/static/img/favicon.png"
+           inkscape:export-xdpi="21.654135"
+           inkscape:export-ydpi="21.654135" />
+        <path
+           sodipodi:nodetypes="csccccccccccc"
+           d="M 79.701481,142.19571 C 36.974555,121.48229 37.908157,106.80511 38.029662,93.976255 38.136469,82.699193 54.044435,66.249876 62.338967,60.59577 73.372696,73.381367 83.560886,82.825562 95.731518,94.549844 l 26.321912,-18.284402 0.224,43.759988 15.01522,-0.39187 -0.42262,-72.357514 -40.089925,26.655027 -35.961102,-36.842106 0,0 c -21.00128,17.54386 -88.32672,74.748983 12.65204,117.856743 z"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#3a3a3a;stroke-width:1.07139075;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0"
+           id="path3151"
+           inkscape:connector-curvature="0"
+           inkscape:export-filename="/home/mmakowski/Projects/website/static/img/favicon.png"
+           inkscape:export-xdpi="21.654135"
+           inkscape:export-ydpi="21.654135" />
+      </g>
+    </g>
+  </g>
+</svg>
