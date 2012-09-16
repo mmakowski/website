@@ -43,6 +43,7 @@
       $if(pagetools)$
       $pagetools()$
       $endif$
+      $othersites()$
       $if(markuphelp)$
       $markuphelp()$
       $endif$
