@@ -1,0 +1,101 @@
+@import url("screen.css"); /* default gitit screen styles */
+@import url("hk-pyg.css"); /* for syntax highlighting */
+
+/* Put your custom style modifications here: */
+
+body {
+  background: #f8f8f8;
+  margin: 0px;
+  padding: 0px;
+}
+
+#all {
+  text-align: justify;
+  margin-left: auto;
+  margin-right: auto;
+  width: 1200px;
+}
+
+#logo {
+  float: left;
+  padding-right: 10px;
+}
+
+div#search {
+  float: right;
+}
+
+div#content {
+  margin: 1em;
+}
+
+div#TOC {
+  background-color: white;
+  float: right;
+}
+
+#footer {
+  color: #a0a0a0;
+}
+
+div.tool-category {
+  float: left;
+}
+
+div.filler {
+  clear: both;
+}
+
+div.tool-category fieldset {
+  border: none;
+  padding: 0em;
+}
+
+div.tool-category * {
+  color: #a0a0a0;
+  text-decoration: none;
+  list-style-type: none;
+}
+
+h2, h3, h4, h5, h6 {
+  border-bottom: 0px;
+}
+
+.photo-right {
+  float: right;
+  clear: right;
+  border: none;
+  margin: 0 0 1em 1em;
+}
+
+.photo-left {
+  float: left;
+  clear: left;
+  border: none; 
+  margin: 0 1em 1em 0;
+}
+
+.photo-centre {
+  display: block;
+  border: none; 
+  margin: 1em auto 1em auto;
+}
+
+.plot-centre {
+  border: none;
+  margin: 0 auto;
+  display: block;
+}
+
+.map {
+  border: 1px solid black;
+  margin: 0 auto;
+  display: block;
+}
+
+.map-right {
+  float: right;
+  clear: right;
+  border: 1px solid black;
+  margin: 0 0 1em 1em;
+}
