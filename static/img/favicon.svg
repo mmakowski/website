@@ -107,25 +107,15 @@
        style="fill:#000000">
       <g
          id="g9104">
-        <rect
-           style="fill:#385f85;fill-opacity:1;stroke:#3a3a3a;stroke-width:0.98505229;stroke-opacity:0"
-           id="rect4409"
-           width="131.96461"
-           height="132"
-           x="13.202972"
-           y="29.97057"
-           inkscape:export-filename="/home/mmakowski/Projects/website/static/img/favicon.png"
-           inkscape:export-xdpi="21.654135"
-           inkscape:export-ydpi="21.654135" />
         <path
            sodipodi:nodetypes="csccccccccccc"
            d="M 79.701481,142.19571 C 36.974555,121.48229 37.908157,106.80511 38.029662,93.976255 38.136469,82.699193 54.044435,66.249876 62.338967,60.59577 73.372696,73.381367 83.560886,82.825562 95.731518,94.549844 l 26.321912,-18.284402 0.224,43.759988 15.01522,-0.39187 -0.42262,-72.357514 -40.089925,26.655027 -35.961102,-36.842106 0,0 c -21.00128,17.54386 -88.32672,74.748983 12.65204,117.856743 z"
-           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#3a3a3a;stroke-width:1.07139075;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0"
+           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#3a3a3a;stroke-width:1.07139074999999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:0"
            id="path3151"
            inkscape:connector-curvature="0"
            inkscape:export-filename="/home/mmakowski/Projects/website/static/img/favicon.png"
-           inkscape:export-xdpi="21.654135"
-           inkscape:export-ydpi="21.654135" />
+           inkscape:export-xdpi="24.200001"
+           inkscape:export-ydpi="24.200001" />
       </g>
     </g>
   </g>
