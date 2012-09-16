@@ -61,6 +61,13 @@ h2, h3, h4, h5, h6 {
   border-bottom: 0px;
 }
 
+.frontpage-thumbnail {
+  float: right;
+  clear: right;
+  border: none;
+  margin: 0 0 1em 1em;
+}
+
 .photo-right {
   float: right;
   clear: right;

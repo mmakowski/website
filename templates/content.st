@@ -9,4 +9,5 @@
     $messages()$
   $endif$
   $content$
+  <div style="clear:both"></div>
 </div>
