@@ -3,8 +3,20 @@
 
 /* Put your custom style modifications here: */
 
+/* colour scheme:
+#123557
+#385f85
+#719cc5
+#89a8c5
+#cc984c
+*/
+
+html {
+  background: #385f85;
+}
+
 body {
-  background: #f8f8f8;
+  background: #385f85;
   margin: 0px;
   padding: 0px;
 }
@@ -25,8 +37,9 @@ div#search {
   float: right;
 }
 
-div#content {
+#content {
   margin: 1em;
+  border: 1px solid #123557;
 }
 
 div#TOC {
@@ -35,7 +48,11 @@ div#TOC {
 }
 
 #footer {
-  color: #a0a0a0;
+  color: #719cc5;
+}
+
+#footer a {
+  color: #719cc5;
 }
 
 div.tool-category {
@@ -52,9 +69,23 @@ div.tool-category fieldset {
 }
 
 div.tool-category * {
-  color: #a0a0a0;
+  color: #719cc5;
   text-decoration: none;
   list-style-type: none;
+}
+
+#exportbox {
+  margin: 0.3em 0 0.5em 0;
+}
+
+#exportbox select {
+  background: #385f85;
+  border: 1px solid #719cc5;
+}
+
+#exportbox input[type="submit"] {
+  background: #385f85;
+  border: 1px solid #719cc5;
 }
 
 h2, h3, h4, h5, h6 {
