@@ -15,6 +15,7 @@
   <link href="$base$/css/print.css" rel="stylesheet" media="print" type= "text/css" />
   $endif$
   <!--[if IE]><link href="$base$/css/ie.css" rel="stylesheet" media="screen, projection" type="text/css" /><![endif]-->
+  <link rel="icon" type="image/x-icon" href="$base$/img/favicon.png" />
 </head>
 <body>
   <div id="all">
