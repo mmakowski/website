@@ -17,6 +17,19 @@
   $endif$
   <!--[if IE]><link href="$base$/css/ie.css" rel="stylesheet" media="screen, projection" type="text/css" /><![endif]-->
   <link rel="icon" type="image/x-icon" href="$base$/img/favicon.png" />
+  <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-866665-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+  </script>
 </head>
 <body>
   <div id="all">
@@ -40,14 +53,5 @@
   $javascripts$
   $expire()$
   $getuser()$
-  <script type="text/javascript">
-    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-    document.write("\<script src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'>\<\/script>" );
-  </script>
-  <script type="text/javascript">
-    var pageTracker = _gat._getTracker("UA-866665-1");
-    pageTracker._initData();
-    pageTracker._trackPageview();
-  </script>
 </body>
 </html>
