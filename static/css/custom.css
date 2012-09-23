@@ -33,6 +33,14 @@ body {
   padding-right: 10px;
 }
 
+#navigation {
+  float: left;
+  position: relative;
+  top: 0px;
+  left: -32px;
+  width: 32px;
+}
+
 div#search {
   float: right;
 }
@@ -53,6 +61,15 @@ div#TOC {
 
 #footer a {
   color: #719cc5;
+}
+
+#tools {
+  margin-left: 1em;
+  margin-right: 1em;
+}
+
+#logo {
+  margin-top: 1em;
 }
 
 div.tool-category {

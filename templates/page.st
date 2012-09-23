@@ -33,10 +33,12 @@
 </head>
 <body>
   <div id="all">
+    $navigation()$
     <div id="maincol" class="main-content">
       $content()$
     </div>
     <div id="tools">
+      $logo()$
       $if(sitenav)$
       $sitenav()$
       $endif$
