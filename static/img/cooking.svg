@@ -16,8 +16,8 @@
    inkscape:version="0.48.3.1 r9886"
    sodipodi:docname="cooking.svg"
    inkscape:export-filename="/home/mmakowski/Projects/website/static/img/cooking.png"
-   inkscape:export-xdpi="44.200001"
-   inkscape:export-ydpi="44.200001">
+   inkscape:export-xdpi="45.48"
+   inkscape:export-ydpi="45.48">
   <defs
      id="defs4136" />
   <sodipodi:namedview
@@ -64,7 +64,7 @@
        sodipodi:nodetypes="ccccc" />
     <path
        sodipodi:type="arc"
-       style="fill:none;stroke:#89a8c5;stroke-width:1.01714814;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2.03429628, 2.03429628;stroke-dashoffset:0"
+       style="fill:none;stroke:#89a8c5;stroke-width:2.03429628;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:4.06859256,4.06859256;stroke-dashoffset:0"
        id="path5199"
        sodipodi:cx="31.062191"
        sodipodi:cy="31.106907"
@@ -73,12 +73,12 @@
        d="m 62.124382,31.106907 a 31.062191,30.872787 0 1 1 -62.124382,0 31.062191,30.872787 0 1 1 62.124382,0 z"
        transform="matrix(0.98440213,0,0,0.98188141,1.4946565,990.25164)" />
     <path
-       style="fill:none;stroke:#89a8c5;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1.5,0.5;stroke-dashoffset:0"
+       style="fill:none;stroke:#89a8c5;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3,1;stroke-dashoffset:0"
        d="m 15.081875,1049.7873 46.77716,-44.4429 -0.279165,0.4395 0,0"
        id="path7030"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:none;stroke:#89a8c5;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1.5,0.5;stroke-dashoffset:0"
+       style="fill:none;stroke:#89a8c5;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3,1;stroke-dashoffset:0"
        d="m 3.8448334,1002.247 42.3128846,48.7125 -0.426614,-0.2985 0,0"
        id="path7030-2"
        inkscape:connector-curvature="0" />

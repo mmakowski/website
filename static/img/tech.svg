@@ -66,7 +66,7 @@
        sodipodi:nodetypes="ccc" />
     <path
        sodipodi:type="arc"
-       style="fill:none;stroke:#89a8c5;stroke-width:1.01714814;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2.03429628,2.03429628;stroke-dashoffset:0"
+       style="fill:none;stroke:#89a8c5;stroke-width:2.03429628;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:4.06859256,4.06859256;stroke-dashoffset:0"
        id="path5199"
        sodipodi:cx="31.062191"
        sodipodi:cy="31.106907"
@@ -76,7 +76,7 @@
        transform="matrix(0.98440213,0,0,0.98188141,1.6209255,990.25164)" />
     <path
        sodipodi:type="arc"
-       style="fill:none;stroke:#89a8c5;stroke-width:1.11266994;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2.22533987,2.22533987;stroke-dashoffset:0"
+       style="fill:none;stroke:#89a8c5;stroke-width:2.22533987;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:4.45067975,4.45067975;stroke-dashoffset:0"
        id="path5199-7"
        sodipodi:cx="31.062191"
        sodipodi:cy="31.106907"
@@ -85,12 +85,12 @@
        d="m 62.124382,31.106907 a 31.062191,30.872787 0 1 1 -62.124382,0 31.062191,30.872787 0 1 1 62.124382,0 z"
        transform="matrix(0.45886982,0,0,0.44006599,17.206507,1023.6462)" />
     <path
-       style="fill:none;stroke:#89a8c5;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1.5, 0.5;stroke-dashoffset:0"
+       style="fill:none;stroke:#89a8c5;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3,1;stroke-dashoffset:0"
        d="m 0.06341305,1037.4097 64.52293795,0.2335 -0.505589,0.1245 0,0"
        id="path7030-3"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:none;stroke:#89a8c5;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1.5, 0.5;stroke-dashoffset:0"
+       style="fill:none;stroke:#89a8c5;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:3,1;stroke-dashoffset:0"
        d="m 31.577318,988.57995 30.142827,57.04975 -0.347676,-0.3876 0,0"
        id="path7030-3-6"
        inkscape:connector-curvature="0" />
