@@ -58,19 +58,29 @@
      transform="translate(0,-988.3622)">
     <path
        style="fill:none;stroke:#719cc5;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-mid:none;marker-end:none"
-       d="m 15.18546,1035.1564 7.251097,-6.3249 7.593487,6.6617 c 17.642331,-14.1565 15.16429,-25.257 18.550376,-31.5852 l -12.839099,12.0235"
+       d="m 17.584573,1047.1519 13.817088,-13.1434 13.149326,14.743 c 18.273676,-12.01 21.026203,-27.4229 14.762304,-41.0554 l -12.460292,11.771"
        id="path4142"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
     <path
        sodipodi:type="arc"
-       style="fill:none;stroke:#719cc5;stroke-width:4.06859255;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:none;stroke:#89a8c5;stroke-width:1.01714814;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2.03429628, 2.03429628;stroke-dashoffset:0"
        id="path5199"
        sodipodi:cx="31.062191"
        sodipodi:cy="31.106907"
        sodipodi:rx="31.062191"
        sodipodi:ry="30.872787"
        d="m 62.124382,31.106907 a 31.062191,30.872787 0 1 1 -62.124382,0 31.062191,30.872787 0 1 1 62.124382,0 z"
-       transform="matrix(0.98440213,0,0,0.98188141,1.3683871,989.62029)" />
+       transform="matrix(0.98440213,0,0,0.98188141,1.4946565,990.25164)" />
+    <path
+       style="fill:none;stroke:#89a8c5;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1.5,0.5;stroke-dashoffset:0"
+       d="m 15.081875,1049.7873 46.77716,-44.4429 -0.279165,0.4395 0,0"
+       id="path7030"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#89a8c5;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1.5,0.5;stroke-dashoffset:0"
+       d="m 3.8448334,1002.247 42.3128846,48.7125 -0.426614,-0.2985 0,0"
+       id="path7030-2"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>
