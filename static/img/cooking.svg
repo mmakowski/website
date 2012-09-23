@@ -16,8 +16,8 @@
    inkscape:version="0.48.3.1 r9886"
    sodipodi:docname="cooking.svg"
    inkscape:export-filename="/home/mmakowski/Projects/website/static/img/cooking.png"
-   inkscape:export-xdpi="33.669998"
-   inkscape:export-ydpi="33.669998">
+   inkscape:export-xdpi="44.200001"
+   inkscape:export-ydpi="44.200001">
   <defs
      id="defs4136" />
   <sodipodi:namedview
@@ -58,7 +58,7 @@
      transform="translate(0,-988.3622)">
     <path
        style="fill:none;stroke:#719cc5;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-mid:none;marker-end:none"
-       d="m 15.18546,1035.1564 7.251097,-6.3249 4.057953,3.7575 c 17.642331,-14.1565 18.699824,-22.3528 22.08591,-28.681 l -12.839099,12.0235"
+       d="m 15.18546,1035.1564 7.251097,-6.3249 7.593487,6.6617 c 17.642331,-14.1565 15.16429,-25.257 18.550376,-31.5852 l -12.839099,12.0235"
        id="path4142"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccc" />
