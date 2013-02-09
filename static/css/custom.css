@@ -154,3 +154,8 @@ h2, h3, h4, h5, h6 {
   border: 1px solid black;
   margin: 0 0 1em 1em;
 }
+
+code {
+  color: #839496;
+  background: #657b83;
+}
