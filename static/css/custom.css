@@ -196,3 +196,11 @@ code > span.co {
   color: #859900;
 }
 
+.added {
+  color: #859900;
+  background: none;
+}
+
+.deleted {
+  color: #dc322f;
+}
