@@ -19,6 +19,8 @@ body {
   background: #385f85;
   margin: 0px;
   padding: 0px;
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-size: 14px;
 }
 
 #all {
@@ -48,6 +50,11 @@ div#search {
 #content {
   margin: 1em;
   border: 1px solid #123557;
+  font-size: 14px;
+}
+
+#content p, #content pre, #content li {
+  line-height: 18px;
 }
 
 div#TOC {
