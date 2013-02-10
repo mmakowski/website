@@ -158,4 +158,34 @@ h2, h3, h4, h5, h6 {
 pre {
   color: #839496;
   background: #002b36;
+  padding: 10px;
 }
+
+code > span.kw {
+  color: #268bd2;
+}
+
+code > span.dt {
+  color: #2aa198;
+}
+
+code > span.fu {
+  color: #268bd2;
+}
+
+code > span.ot {
+  color: #839496;
+}
+
+code > span.dv {
+  color: #839496;
+}
+
+code > span.st {
+  color: #b58900;
+}
+
+code > span.co {
+  color: #859900;
+}
+
