@@ -53,13 +53,17 @@ div#search {
   font-size: 16px;
 }
 
-#content p, #content li {
+#content p, #content li, #content table {
   font-family: "PT Serif", Georgia, Times, "Times New Roman", serif, "Heiti SC", "Microsoft Yahei";
   line-height: 24px;
 }
 
 #content pre {
   line-height: 20px;
+}
+
+th, td {
+  padding: .2em;
 }
 
 div#TOC {
