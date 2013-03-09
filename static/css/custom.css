@@ -221,4 +221,14 @@ code > span.co {
 .asciiart {
   color: #000000;
   background: #ffffff;
-}}
+}
+
+@media only screen and (max-device-width: 750px) {
+  #all { 
+    width: 100%;
+  }
+
+  #content {
+    margin: 0px;
+  }
+}
