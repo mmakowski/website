@@ -5,3 +5,7 @@ gitit.conf
 gitit.log
 translate
 wikidata/
+*.hi
+*.o
+
+static/img/792cff11f75968d5b1b34c027fa4b35fb54733fb.png
