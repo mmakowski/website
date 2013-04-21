@@ -53,7 +53,7 @@ div#search {
   font-size: 16px;
 }
 
-#content p, #content li, #content table {
+#content p, #content li, #content table, #content dl {
   font-family: "PT Serif", Georgia, Times, "Times New Roman", serif, "Heiti SC", "Microsoft Yahei";
   line-height: 24px;
 }
