@@ -56,6 +56,7 @@ div#search {
 #content p, #content li, #content table, #content dl {
   font-family: "PT Serif", Georgia, Times, "Times New Roman", serif, "Heiti SC", "Microsoft Yahei";
   line-height: 24px;
+  color: #444444;
 }
 
 #content pre {
@@ -123,6 +124,7 @@ div.tool-category * {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: "Trebuchet MS", "Lucida Grande", Verdana, Arial, sans-serif;
+  color: #444444;
 }
 
 h2, h3, h4, h5, h6 {
@@ -176,7 +178,7 @@ h2, h3, h4, h5, h6 {
 }
 
 blockquote {
-  color: black;
+  color: #444444;
   font-style: italic;
 }
 
@@ -224,7 +226,7 @@ code > span.co {
 }
 
 .asciiart {
-  color: #000000;
+  color: #444444;
   background: #ffffff;
 }
 
