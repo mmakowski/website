@@ -47,16 +47,36 @@ div#search {
   float: right;
 }
 
+#searchform input[type='text'] {
+  border-radius: 0.2em;
+  border: 1px solid #93a1a1;
+  background: #fdf6e3;
+}
+
+#searchform input[type='submit'] {
+  background: #eee8d5;
+  color: #586e75;
+  border-radius: 0.2em;
+  border: 1px solid #93a1a1;
+  line-height: 1.5em;
+  padding-left: 0.5em;
+  padding-right: 0.5em;
+}
+
 #content {
   margin: 1em;
-  border: 1px solid #123557;
+  border-radius: 0.4em;
+  box-shadow: #495968 0 0 0.4em 0.2em;
+  border: 0px;
+  background-color: #fdf6e3;
+  color: #657b83;
   font-size: 16px;
 }
 
 #content p, #content li, #content table, #content dl {
   font-family: "PT Serif", Georgia, Times, "Times New Roman", serif, "Heiti SC", "Microsoft Yahei";
-  line-height: 24px;
-  color: #444444;
+  color: #657b83;
+  line-height: 1.5em;
 }
 
 #content pre {
@@ -68,9 +88,16 @@ th, td {
 }
 
 div#TOC {
-  background-color: white;
+  background-color: #fdf6e3;
+  border: none;
   float: right;
 }
+
+div#categoryList {
+  border-radius: 0.2em;
+  border: 1px dotted #93a1a1;
+}
+
 
 #footer {
   color: #719cc5;
@@ -124,11 +151,24 @@ div.tool-category * {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: "Trebuchet MS", "Lucida Grande", Verdana, Arial, sans-serif;
-  color: #444444;
+  color: #657b83;
+}
+
+h1 {
+  border-bottom: 1px solid #93a1a1;
 }
 
 h2, h3, h4, h5, h6 {
   border-bottom: 0px;
+}
+
+h1 > a:link, h1 > a:active, h1 > a:hover, h1 > a:focus, h1 > a:visited, 
+h2 > a:link, h2 > a:active, h2 > a:hover, h2 > a:focus, h2 > a:visited, 
+h3 > a:link, h3 > a:active, h3 > a:hover, h3 > a:focus, h3 > a:visited, 
+h4 > a:link, h4 > a:active, h4 > a:hover, h4 > a:focus, h4 > a:visited, 
+h5 > a:link, h5 > a:active, h5 > a:hover, h5 > a:focus, h5 > a:visited, 
+h6 > a:link, h6 > a:active, h6 > a:hover, h6 > a:focus, h6 > a:visited {
+  color: #657b83;
 }
 
 .frontpage-thumbnail {
@@ -183,9 +223,11 @@ blockquote {
 }
 
 pre {
-  color: #839496;
-  background: #002b36;
+  color: #657b83;
+  background: #eee8d5;
   padding: 10px;
+  border-radius: 0.2em;
+  box-shadow: #D6D1C0 0 0 0.1em 0.1em;
 }
 
 code > span.kw {
