@@ -81,6 +81,9 @@ div#search {
 
 #content pre {
   line-height: 20px;
+  display: block;
+  overflow-x: auto;
+  overflow-y: hidden;
 }
 
 th, td {
@@ -268,8 +271,16 @@ code > span.co {
 }
 
 .asciiart {
-  color: #444444;
-  background: #ffffff;
+  color: #657b83;
+  background: #fdf6e3;
+  border: none;
+  box-shadow: none;
+}
+
+div.diagram {
+  display: block;
+  overflow-x: auto;
+  overflow-y: hidden;
 }
 
 @media only screen and (max-device-width: 750px) {
