@@ -57,5 +57,6 @@
   $javascripts$
   $expire()$
   $getuser()$
+  $renderdot()$
 </body>
 </html>
