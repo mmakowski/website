@@ -10,11 +10,11 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="200"
-   height="200"
+   width="150"
+   height="150"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.91 r13725"
    version="1.0"
    sodipodi:docname="logo.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
@@ -33,41 +33,44 @@
     <marker
        inkscape:stockid="Arrow1Mstart"
        orient="auto"
-       refY="0.0"
-       refX="0.0"
+       refY="0"
+       refX="0"
        id="Arrow1Mstart"
        style="overflow:visible">
       <path
          id="path18691"
-         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none"
-         transform="scale(0.4) translate(10,0)" />
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(0.4,0,0,0.4,4,0)"
+         inkscape:connector-curvature="0" />
     </marker>
     <marker
        inkscape:stockid="Arrow1Mend"
        orient="auto"
-       refY="0.0"
-       refX="0.0"
+       refY="0"
+       refX="0"
        id="Arrow1Mend"
-       style="overflow:visible;">
+       style="overflow:visible">
       <path
          id="path18694"
-         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none;"
-         transform="scale(0.4) rotate(180) translate(10,0)" />
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         inkscape:connector-curvature="0" />
     </marker>
     <marker
        inkscape:stockid="Arrow1Lend"
        orient="auto"
-       refY="0.0"
-       refX="0.0"
+       refY="0"
+       refX="0"
        id="Arrow1Lend"
-       style="overflow:visible;">
+       style="overflow:visible">
       <path
          id="path18688"
-         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none;"
-         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;marker-start:none"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
     </marker>
   </defs>
   <sodipodi:namedview
@@ -80,19 +83,19 @@
      objecttolerance="10"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8098892"
-     inkscape:cx="140.52153"
-     inkscape:cy="18.759031"
+     inkscape:zoom="3.9737834"
+     inkscape:cx="108.25695"
+     inkscape:cy="1.6943785"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      width="200px"
      height="200px"
-     inkscape:window-width="1920"
-     inkscape:window-height="1176"
+     inkscape:window-width="2560"
+     inkscape:window-height="1440"
      inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:window-y="0"
      showgrid="false"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="0" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -101,49 +104,47 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
-    <rect
-       style="fill:#385f85;fill-opacity:1;stroke:#3a3a3a;stroke-opacity:0"
-       id="rect3209"
-       width="190.7502"
-       height="192.2601"
-       x="5.0329871"
-       y="2.9585609" />
+     id="layer1"
+     transform="translate(0,-50)">
     <g
        id="g11927"
        inkscape:export-filename="c:\Documents and Settings\Maciek\My Documents\My Programs\personal_website3\logo.png"
        inkscape:export-xdpi="82.473473"
        inkscape:export-ydpi="82.473473"
-       style="stroke:#719cc5;stroke-opacity:1;fill:none;fill-opacity:1">
+       style="fill:none;fill-opacity:1;stroke:#657b83;stroke-opacity:1"
+       transform="matrix(0.8665755,0,0,0.87519949,-14.966402,42.401805)">
       <g
          inkscape:label="#m1"
          id="M1"
-         style="stroke:#719cc5;stroke-opacity:1;fill:none;fill-opacity:1">
+         style="fill:none;fill-opacity:1;stroke:#657b83;stroke-opacity:1">
         <g
            id="g8039"
-           style="stroke:#719cc5;stroke-opacity:1;fill:none;fill-opacity:1">
+           style="fill:none;fill-opacity:1;stroke:#657b83;stroke-opacity:1">
           <path
-             style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#719cc5;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
-             d="M 115.53885,96.240602 L 115.28822,56.390977 L 96.240602,72.431078 L 64.912281,35.588972 L 64.912281,35.588972 C 46.616542,53.132832 -10.776942,109.27319 77.192982,152.38095"
+             style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#657b83;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="M 115.53885,96.240602 115.28822,56.390977 96.240602,72.431078 64.912281,35.588972 l 0,0 C 46.616542,53.132832 -10.776942,109.27319 77.192982,152.38095"
              id="path3151"
-             sodipodi:nodetypes="cccccc" />
+             sodipodi:nodetypes="cccccc"
+             inkscape:connector-curvature="0" />
           <path
-             style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#719cc5;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
-             d="M 111.18358,99.133312 L 111.20603,65.572648 L 96.120126,78.290056 L 64.880032,41.759193 L 64.808549,41.835798 C 48.151543,58.486691 -3.1178649,111.36249 76.972674,152.2761"
+             style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#657b83;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             d="m 111.18358,99.133312 0.0224,-33.560664 -15.085904,12.717408 -31.240094,-36.530863 -0.07148,0.0766 C 48.151543,58.486691 -3.1178649,111.36249 76.972674,152.2761"
              id="path5091"
-             sodipodi:nodetypes="cccccc" />
+             sodipodi:nodetypes="cccccc"
+             inkscape:connector-curvature="0" />
         </g>
         <path
-           style="fill:none;fill-rule:evenodd;stroke:#719cc5;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
-           d="M 111.23026,98.360437 C 111.23026,98.360437 111.69617,95.099061 115.66504,95.237108"
-           id="path5097" />
+           style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#657b83;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 111.23026,98.360437 c 0,0 0.46591,-3.261376 4.43478,-3.123329"
+           id="path5097"
+           inkscape:connector-curvature="0" />
       </g>
       <use
          height="200"
@@ -153,21 +154,23 @@
          xlink:href="#M1"
          y="0"
          x="0"
-         style="stroke:#719cc5;stroke-opacity:1;fill:none;fill-opacity:1" />
+         style="fill:none;fill-opacity:1;stroke:#657b83;stroke-opacity:1" />
     </g>
     <g
        id="g4003"
-       style="stroke:#89a8c5;stroke-opacity:1"
+       style="stroke:#93a1a1;stroke-opacity:1"
        inkscape:export-filename="/home/mmakowski/Projects/website/static/img/logo.png"
        inkscape:export-xdpi="84.839996"
-       inkscape:export-ydpi="84.839996">
+       inkscape:export-ydpi="84.839996"
+       transform="matrix(0.8665755,0,0,0.87519949,-14.966402,42.401805)">
       <path
          inkscape:export-ydpi="82.473473"
          inkscape:export-xdpi="82.473473"
          inkscape:export-filename="c:\Documents and Settings\Maciek\My Documents\My Programs\personal_website3\logo.png"
          id="path9011"
-         d="M 141.84881,33.848988 L 67.443232,96.843654"
-         style="fill:none;fill-opacity:0;fill-rule:evenodd;stroke:#89a8c5;stroke-width:0.50000000000000000;stroke-linecap:butt;stroke-linejoin:miter;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:1.50000000000000000, 0.50000000000000000;stroke-dashoffset:0;stroke-opacity:1" />
+         d="M 141.84881,33.848988 67.443232,96.843654"
+         style="fill:none;fill-opacity:0;fill-rule:evenodd;stroke:#93a1a1;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.5, 0.50000000000000000;stroke-dashoffset:0;stroke-opacity:1;marker-mid:none;marker-end:none"
+         inkscape:connector-curvature="0" />
       <path
          inkscape:export-ydpi="82.473473"
          inkscape:export-xdpi="82.473473"
@@ -175,183 +178,200 @@
          sodipodi:nodetypes="cc"
          id="path10953"
          d="m 25.466111,35.705844 163.569169,0.02191"
-         style="fill:none;stroke:#89a8c5;stroke-width:0.49860722000000002;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1.49582163000000001, 0.49860721000000002;stroke-dashoffset:0" />
-      <path
+         style="fill:none;stroke:#93a1a1;stroke-width:0.49860722;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.49582163, 0.49860721000000002;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <ellipse
          inkscape:export-ydpi="82.473473"
          inkscape:export-xdpi="82.473473"
          inkscape:export-filename="c:\Documents and Settings\Maciek\My Documents\My Programs\personal_website3\logo.png"
          transform="matrix(0.9753607,0,0,0.9879825,23.807924,-6.8020063)"
-         d="M 98.705407 107.31136 A 4.569695 4.0365639 0 1 1  89.566017,107.31136 A 4.569695 4.0365639 0 1 1  98.705407 107.31136 z"
-         sodipodi:ry="4.0365639"
-         sodipodi:rx="4.569695"
-         sodipodi:cy="107.31136"
-         sodipodi:cx="94.135712"
          id="path11924"
-         style="fill:none;fill-opacity:0;stroke:#89a8c5;stroke-width:0.25467290999999997;stroke-miterlimit:4;stroke-dasharray:0.76401874000000003, 0.76401874000000003;stroke-dashoffset:0;stroke-opacity:1"
-         sodipodi:type="arc" />
+         style="fill:none;fill-opacity:0;stroke:#93a1a1;stroke-width:0.25467291;stroke-miterlimit:4;stroke-dasharray:0.76401874, 0.76401874000000003;stroke-dashoffset:0;stroke-opacity:1"
+         cx="94.135712"
+         cy="107.31136"
+         rx="4.569695"
+         ry="4.0365639" />
       <path
          inkscape:export-ydpi="82.473473"
          inkscape:export-xdpi="82.473473"
          inkscape:export-filename="c:\Documents and Settings\Maciek\My Documents\My Programs\personal_website3\logo.png"
          sodipodi:nodetypes="cc"
          id="path11926"
-         d="M 121.65433,102.38529 L 58.533221,28.062737"
-         style="fill:none;fill-opacity:0;fill-rule:evenodd;stroke:#89a8c5;stroke-width:0.50000000000000000;stroke-linecap:butt;stroke-linejoin:miter;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:1.50000000000000000, 0.50000000000000000;stroke-dashoffset:0;stroke-opacity:1" />
+         d="M 121.65433,102.38529 58.533221,28.062737"
+         style="fill:none;fill-opacity:0;fill-rule:evenodd;stroke:#93a1a1;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.5, 0.50000000000000000;stroke-dashoffset:0;stroke-opacity:1;marker-mid:none;marker-end:none"
+         inkscape:connector-curvature="0" />
       <path
          inkscape:export-ydpi="82.473473"
          inkscape:export-xdpi="82.473473"
          inkscape:export-filename="c:\Documents and Settings\Maciek\My Documents\My Programs\personal_website3\logo.png"
          sodipodi:nodetypes="cc"
          id="path11928"
-         d="M 135.17239,35.528215 C 135.04818,37.158678 135.51628,37.603703 136.52966,38.333013"
-         style="fill:none;fill-rule:evenodd;stroke:#89a8c5;stroke-width:0.25000000000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         d="m 135.17239,35.528215 c -0.12421,1.630463 0.34389,2.075488 1.35727,2.804798"
+         style="fill:none;fill-rule:evenodd;stroke:#93a1a1;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
       <path
          inkscape:export-ydpi="82.473473"
          inkscape:export-xdpi="82.473473"
          inkscape:export-filename="c:\Documents and Settings\Maciek\My Documents\My Programs\personal_website3\logo.png"
          sodipodi:nodetypes="cc"
          id="path8040"
-         d="M 115.14837,30.001244 L 115.68624,127.51372"
-         style="fill:none;fill-opacity:0;fill-rule:evenodd;stroke:#89a8c5;stroke-width:0.50000000000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.50000000000000000, 0.50000000000000000;stroke-dashoffset:0;stroke-opacity:1" />
+         d="m 115.14837,30.001244 0.53787,97.512476"
+         style="fill:none;fill-opacity:0;fill-rule:evenodd;stroke:#93a1a1;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.5, 0.50000000000000000;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
       <path
          inkscape:export-ydpi="82.473473"
          inkscape:export-xdpi="82.473473"
          inkscape:export-filename="c:\Documents and Settings\Maciek\My Documents\My Programs\personal_website3\logo.png"
          id="path12947"
-         d="M 111.15257,95.347391 L 111.15257,108.4453"
-         style="fill:none;fill-rule:evenodd;stroke:#89a8c5;stroke-width:0.25000000000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
+         d="m 111.15257,95.347391 0,13.097909"
+         style="fill:none;fill-rule:evenodd;stroke:#93a1a1;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
       <path
          inkscape:export-ydpi="82.473473"
          inkscape:export-xdpi="82.473473"
          inkscape:export-filename="c:\Documents and Settings\Maciek\My Documents\My Programs\personal_website3\logo.png"
          id="path13918"
-         d="M 111.18523,107.75937 L 115.95405,107.72671"
-         style="fill:none;fill-rule:evenodd;stroke:#89a8c5;stroke-width:0.25000000000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
+         d="m 111.18523,107.75937 4.76882,-0.0327"
+         style="fill:none;fill-rule:evenodd;stroke:#93a1a1;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
       <path
          inkscape:export-ydpi="82.473473"
          inkscape:export-xdpi="82.473473"
          inkscape:export-filename="c:\Documents and Settings\Maciek\My Documents\My Programs\personal_website3\logo.png"
          sodipodi:nodetypes="cc"
          id="path14889"
-         d="M 100.03098,75.022586 L 87.417619,85.849057"
-         style="fill:none;fill-rule:evenodd;stroke:#89a8c5;stroke-width:0.25000000000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
+         d="M 100.03098,75.022586 87.417619,85.849057"
+         style="fill:none;fill-rule:evenodd;stroke:#93a1a1;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
       <path
          inkscape:export-ydpi="82.473473"
          inkscape:export-xdpi="82.473473"
          inkscape:export-filename="c:\Documents and Settings\Maciek\My Documents\My Programs\personal_website3\logo.png"
          id="path4119"
-         d="M 85.196628,81.848279 L 88.025307,85.270387"
-         style="fill:none;fill-rule:evenodd;stroke:#89a8c5;stroke-width:0.25000000000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
+         d="m 85.196628,81.848279 2.828679,3.422108"
+         style="fill:none;fill-rule:evenodd;stroke:#93a1a1;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
       <path
          inkscape:export-ydpi="82.473473"
          inkscape:export-xdpi="82.473473"
          inkscape:export-filename="c:\Documents and Settings\Maciek\My Documents\My Programs\personal_website3\logo.png"
          id="path6061"
-         d="M 59.358543,41.133455 L 71.642464,28.849534"
-         style="fill:none;fill-rule:evenodd;stroke:#89a8c5;stroke-width:0.25000000000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
+         d="M 59.358543,41.133455 71.642464,28.849534"
+         style="fill:none;fill-rule:evenodd;stroke:#93a1a1;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
       <path
          inkscape:export-ydpi="82.473473"
          inkscape:export-xdpi="82.473473"
          inkscape:export-filename="c:\Documents and Settings\Maciek\My Documents\My Programs\personal_website3\logo.png"
          sodipodi:nodetypes="cc"
          id="path7032"
-         d="M 67.939993,32.604693 C 68.933303,33.43005 69.534395,34.421802 69.330977,35.754862"
-         style="fill:none;fill-rule:evenodd;stroke:#89a8c5;stroke-width:0.25000000000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
+         d="m 67.939993,32.604693 c 0.99331,0.825357 1.594402,1.817109 1.390984,3.150169"
+         style="fill:none;fill-rule:evenodd;stroke:#93a1a1;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
       <path
          inkscape:export-ydpi="82.473473"
          inkscape:export-xdpi="82.473473"
          inkscape:export-filename="c:\Documents and Settings\Maciek\My Documents\My Programs\personal_website3\logo.png"
          sodipodi:nodetypes="cc"
          id="path8003"
-         d="M 29.540621,33.309486 L 29.570124,139.78899"
-         style="fill:none;fill-rule:evenodd;stroke:#89a8c5;stroke-width:0.50000000000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.50000000000000000, 0.50000000000000000;stroke-opacity:1;stroke-dashoffset:0" />
+         d="m 29.540621,33.309486 0.0295,106.479504"
+         style="fill:none;fill-rule:evenodd;stroke:#93a1a1;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.5, 0.50000000000000000;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
       <path
          inkscape:export-ydpi="82.473473"
          inkscape:export-xdpi="82.473473"
          inkscape:export-filename="c:\Documents and Settings\Maciek\My Documents\My Programs\personal_website3\logo.png"
          sodipodi:nodetypes="cc"
          id="path8974"
-         d="M 87.732079,158.01394 L 19.426389,121.51112"
-         style="fill:none;fill-rule:evenodd;stroke:#89a8c5;stroke-width:0.50000000000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:1.50000000000000000, 0.50000000000000000;stroke-dashoffset:0" />
+         d="M 87.732079,158.01394 19.426389,121.51112"
+         style="fill:none;fill-rule:evenodd;stroke:#93a1a1;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.5, 0.50000000000000000;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
       <path
          inkscape:export-ydpi="82.473473"
          inkscape:export-xdpi="82.473473"
          inkscape:export-filename="c:\Documents and Settings\Maciek\My Documents\My Programs\personal_website3\logo.png"
          sodipodi:nodetypes="cc"
          id="path9945"
-         d="M 29.603687,121.54214 C 32.537389,123.12596 34.615403,125.40317 34.436529,129.50925"
-         style="fill:none;fill-rule:evenodd;stroke:#89a8c5;stroke-width:0.25000000000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
+         d="m 29.603687,121.54214 c 2.933702,1.58382 5.011716,3.86103 4.832842,7.96711"
+         style="fill:none;fill-rule:evenodd;stroke:#93a1a1;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
       <path
          inkscape:export-ydpi="82.473473"
          inkscape:export-xdpi="82.473473"
          inkscape:export-filename="c:\Documents and Settings\Maciek\My Documents\My Programs\personal_website3\logo.png"
          sodipodi:nodetypes="cc"
          id="path10916"
-         d="M 33.299847,56.513271 L 33.34588,119.21079"
-         style="fill:none;fill-rule:evenodd;stroke:#89a8c5;stroke-width:0.25000000000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         d="m 33.299847,56.513271 0.04603,62.697519"
+         style="fill:none;fill-rule:evenodd;stroke:#93a1a1;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
       <path
          inkscape:export-ydpi="82.473473"
          inkscape:export-xdpi="82.473473"
          inkscape:export-filename="c:\Documents and Settings\Maciek\My Documents\My Programs\personal_website3\logo.png"
          sodipodi:nodetypes="cc"
          id="path11887"
-         d="M 29.552831,64.139705 L 33.284853,64.139705"
-         style="fill:none;fill-rule:evenodd;stroke:#89a8c5;stroke-width:0.25000000000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
+         d="m 29.552831,64.139705 3.732022,0"
+         style="fill:none;fill-rule:evenodd;stroke:#93a1a1;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
       <path
          inkscape:export-ydpi="82.473473"
          inkscape:export-xdpi="82.473473"
          inkscape:export-filename="c:\Documents and Settings\Maciek\My Documents\My Programs\personal_website3\logo.png"
          id="path12858"
-         d="M 61.667297,45.002598 L 74.668506,31.957167"
-         style="fill:none;fill-rule:evenodd;stroke:#89a8c5;stroke-width:0.25000000000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
+         d="M 61.667297,45.002598 74.668506,31.957167"
+         style="fill:none;fill-rule:evenodd;stroke:#93a1a1;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
       <path
          inkscape:export-ydpi="82.473473"
          inkscape:export-xdpi="82.473473"
          inkscape:export-filename="c:\Documents and Settings\Maciek\My Documents\My Programs\personal_website3\logo.png"
          id="path13829"
-         d="M 70.511657,30.05563 L 73.452407,33.151156"
-         style="fill:none;fill-rule:evenodd;stroke:#89a8c5;stroke-width:0.25000000000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
-      <path
+         d="m 70.511657,30.05563 2.94075,3.095526"
+         style="fill:none;fill-rule:evenodd;stroke:#93a1a1;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <ellipse
          inkscape:export-ydpi="82.473473"
          inkscape:export-xdpi="82.473473"
          inkscape:export-filename="c:\Documents and Settings\Maciek\My Documents\My Programs\personal_website3\logo.png"
          transform="matrix(3.2653754,0,0,2.0934622,-83.540771,-117.7299)"
-         d="m 52.434505,101.82823 a 8.9024315,13.721179 0 1 1 -17.804863,0 8.9024315,13.721179 0 1 1 17.804863,0 z"
-         sodipodi:ry="13.721179"
-         sodipodi:rx="8.9024315"
-         sodipodi:cy="101.82823"
-         sodipodi:cx="43.532074"
          id="path14800"
-         style="fill:none;stroke:#89a8c5;stroke-width:0.19123654000000001;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1.14741925999999994, 1.14741925999999994;stroke-dashoffset:0"
-         sodipodi:type="arc" />
+         style="fill:none;stroke:#93a1a1;stroke-width:0.19123654;stroke-miterlimit:4;stroke-dasharray:1.14741926, 1.14741925999999994;stroke-dashoffset:0;stroke-opacity:1"
+         cx="43.532074"
+         cy="101.82823"
+         rx="8.9024315"
+         ry="13.721179" />
       <path
          inkscape:export-ydpi="82.473473"
          inkscape:export-xdpi="82.473473"
          inkscape:export-filename="c:\Documents and Settings\Maciek\My Documents\My Programs\personal_website3\logo.png"
          sodipodi:nodetypes="cc"
          id="path15771"
-         d="M 92.013902,73.483981 L 103.70449,87.156033"
-         style="fill:none;fill-rule:evenodd;stroke:#89a8c5;stroke-width:0.25000000000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
+         d="M 92.013902,73.483981 103.70449,87.156033"
+         style="fill:none;fill-rule:evenodd;stroke:#93a1a1;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
       <path
          inkscape:export-ydpi="82.473473"
          inkscape:export-xdpi="82.473473"
          inkscape:export-filename="c:\Documents and Settings\Maciek\My Documents\My Programs\personal_website3\logo.png"
          id="path16742"
-         d="M 102.44132,85.645172 L 105.3392,83.217887"
-         style="fill:none;fill-rule:nonzero;stroke:#89a8c5;stroke-width:0.25000000000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;marker-end:none;fill-opacity:1;marker-start:none;marker-mid:none" />
+         d="m 102.44132,85.645172 2.89788,-2.427285"
+         style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#93a1a1;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:none;marker-mid:none;marker-end:none"
+         inkscape:connector-curvature="0" />
       <path
          inkscape:export-ydpi="82.473473"
          inkscape:export-xdpi="82.473473"
          inkscape:export-filename="c:\Documents and Settings\Maciek\My Documents\My Programs\personal_website3\logo.png"
          sodipodi:nodetypes="cc"
          id="path2198"
-         d="M 60.881118,30.922428 C 59.002142,32.000998 57.976593,33.494749 58.264703,35.627577"
-         style="fill:none;fill-rule:evenodd;stroke:#89a8c5;stroke-width:0.25000000000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         d="m 60.881118,30.922428 c -1.878976,1.07857 -2.904525,2.572321 -2.616415,4.705149"
+         style="fill:none;fill-rule:evenodd;stroke:#93a1a1;stroke-width:0.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
       <path
          sodipodi:nodetypes="cc"
          id="path11935"
-         d="M 76.878286,165.86579 L 76.755799,24.367309"
-         style="fill:none;fill-rule:evenodd;stroke:#89a8c5;stroke-width:0.50000000000000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.50000000000000000, 0.50000000000000000;stroke-opacity:1;stroke-dashoffset:0" />
+         d="M 76.878286,165.86579 76.755799,24.367309"
+         style="fill:none;fill-rule:evenodd;stroke:#93a1a1;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.5, 0.50000000000000000;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
     </g>
   </g>
 </svg>

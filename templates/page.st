@@ -39,7 +39,9 @@
       $content()$
     </div>
     <div id="tools">
-      $logo()$
+      <div id="logo">
+        <a href="$base$/" title="Go to the home page"><img src="$base$/img/logo.svg"></a>
+      </div>
       $if(sitenav)$
       $sitenav()$
       $endif$

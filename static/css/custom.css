@@ -3,24 +3,17 @@
 
 /* Put your custom style modifications here: */
 
-/* colour scheme:
-#123557
-#385f85
-#719cc5
-#89a8c5
-#cc984c
-*/
-
 html {
-  background: #385f85;
+  background: #ffffff;
 }
 
 body {
-  background: #385f85;
-  margin: 0px;
-  padding: 0px;
-  font-family: "PT Sans", "Helvetica Neue", Arial, sans-serif;
+  background: #ffffff;
+  margin: 0em;
+  padding: 0em;
+  font-family: Georgia, Times, "Times New Roman", serif;
   font-size: 14px;
+  text-align: center;
 }
 
 #all {
@@ -28,19 +21,56 @@ body {
   margin-left: auto;
   margin-right: auto;
   width: 1000px;
+  position: relative;
+}
+
+header {
+  position: fixed;
+  top: 0px;
+  width: inherit;
+  height: 3.5em;
+  background: #ffffff;
+  display: block;
+  z-index: 0;
+  border-bottom: 1px solid #93a1a1;
+}
+
+header a:link {
+  color: #93a1a1;
+}
+
+header a:visited {
+  color: #93a1a1;
+}
+
+nav {
+  width: 100%;
+  position: absolute;
+  left: 0em;
+  float: left;
+}
+
+nav > ul {
+  list-style: none;
+  position: relative;
+}
+
+nav > ul > li {
+  float: left;
+  padding-right: 10px;
+}
+
+nav > ul > li.edit {
+  padding-left: 300px;
+}
+
+nav > ul > li.search {
+  float: right;
 }
 
 #logo {
   float: left;
   padding-right: 10px;
-}
-
-#navigation {
-  float: left;
-  position: relative;
-  top: 0px;
-  left: -32px;
-  width: 32px;
 }
 
 div#search {
@@ -50,7 +80,7 @@ div#search {
 #searchform input[type='text'] {
   border-radius: 0.2em;
   border: 1px solid #93a1a1;
-  background: #fdf6e3;
+  background: #ffffff;
 }
 
 #searchform input[type='submit'] {
@@ -64,17 +94,15 @@ div#search {
 }
 
 #content {
-  margin: 1em;
-  border-radius: 0.4em;
-  box-shadow: #495968 0 0 0.4em 0.2em;
+  margin: 2em 0em 0em 0em;
   border: 0px;
-  background-color: #fdf6e3;
+  background-color: #ffffff;
   color: #657b83;
   font-size: 17px;
 }
 
 #content p, #content li, #content table, #content dl {
-  font-family: "PT Serif", Georgia, Times, "Times New Roman", serif, "Heiti SC", "Microsoft Yahei";
+  font-family: Georgia, Times, "Times New Roman", serif;
   color: #657b83;
   line-height: 1.5em;
 }
@@ -91,7 +119,7 @@ th, td {
 }
 
 div#TOC {
-  background-color: #fdf6e3;
+  background-color: #ffffff;
   border: none;
   float: right;
 }
@@ -102,15 +130,21 @@ div#categoryList {
 }
 
 
-#footer {
-  color: #719cc5;
+footer {
+  color: #93a1a1;
+  text-align: center;
 }
 
-#footer a {
-  color: #719cc5;
+footer > a:link {
+  color: #93a1a1;
+}
+
+footer > a:visited {
+  color: #93a1a1;
 }
 
 #tools {
+  font-family: Arial, Helvetica, sans-serif;
   margin-left: 1em;
   margin-right: 1em;
 }
@@ -123,6 +157,14 @@ div.tool-category {
   float: left;
 }
 
+div.tool-category a:link {
+  color: #93a1a1;
+}
+
+div.tool-category a:visited {
+  color: #93a1a1;
+}
+
 div.filler {
   clear: both;
 }
@@ -133,7 +175,7 @@ div.tool-category fieldset {
 }
 
 div.tool-category * {
-  color: #719cc5;
+  color: #93a1a1;
   text-decoration: none;
   list-style-type: none;
 }
@@ -143,25 +185,24 @@ div.tool-category * {
 }
 
 #exportbox select {
-  background: #385f85;
+  background: #ffffff;
   border: 1px solid #719cc5;
 }
 
 #exportbox input[type="submit"] {
-  background: #385f85;
+  /*background: #385f85;*/
   border: 1px solid #719cc5;
 }
 
+select:focus {
+  outline: none;
+}
+
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Trebuchet MS", "Lucida Grande", Verdana, Arial, sans-serif;
   color: #657b83;
 }
 
-h1 {
-  border-bottom: 1px solid #93a1a1;
-}
-
-h2, h3, h4, h5, h6 {
+h1, h2, h3, h4, h5, h6 {
   border-bottom: 0px;
 }
 
@@ -172,6 +213,16 @@ h4 > a:link, h4 > a:active, h4 > a:hover, h4 > a:focus, h4 > a:visited,
 h5 > a:link, h5 > a:active, h5 > a:hover, h5 > a:focus, h5 > a:visited, 
 h6 > a:link, h6 > a:active, h6 > a:hover, h6 > a:focus, h6 > a:visited {
   color: #657b83;
+}
+
+a:link {
+  color: #268bd2;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #268bd2;
+  text-decoration: none;
 }
 
 .frontpage-thumbnail {
@@ -272,7 +323,7 @@ code > span.co {
 
 .asciiart {
   color: #657b83;
-  background: #fdf6e3;
+  background: #ffffff;
   border: none;
   box-shadow: none;
 }

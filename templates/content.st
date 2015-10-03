@@ -1,5 +1,4 @@
 <div id="content">
-  $search()$
   $if(revision)$
     <h2 class="revision">Revision $revision$</h2>
   $endif$
