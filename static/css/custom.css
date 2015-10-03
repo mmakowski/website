@@ -89,6 +89,11 @@ div#search {
   margin-top: 0.5em;
 }
 
+textarea:focus, input[type='text']:focus, input[type='password']:focus, select:focus { 
+  border-color: #93a1a1; 
+  outline: none; 
+}
+
 #searchform input[type='image'] {
   padding-left: 1em;
   position: relative;
@@ -295,7 +300,7 @@ code {
 }
 
 code > span.kw {
-  color: #268bd2;
+  color: #657b83;
 }
 
 code > span.dt {
@@ -303,7 +308,7 @@ code > span.dt {
 }
 
 code > span.fu {
-  color: #268bd2;
+  color: #657b83;
 }
 
 code > span.ot {
