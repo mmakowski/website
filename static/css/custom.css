@@ -28,7 +28,7 @@ header {
   position: fixed;
   top: 0px;
   width: inherit;
-  height: 3.5em;
+  height: 4em;
   background: #ffffff;
   display: block;
   z-index: 0;
@@ -94,7 +94,7 @@ div#search {
 }
 
 #content {
-  margin: 2em 0em 0em 0em;
+  margin: 3em 0em 0em 0em;
   border: 0px;
   background-color: #ffffff;
   color: #657b83;
@@ -230,6 +230,11 @@ a:visited {
   clear: right;
   border: none;
   margin: 0 0 1em 1em;
+  -webkit-filter: grayscale(1);
+  -moz-filter: grayscale(1);
+  -ms-filter: grayscale(1);
+  -o-filter: grayscale(1);
+  filter: grayscale(1);
 }
 
 .photo-right {
@@ -278,10 +283,13 @@ blockquote {
 
 pre {
   color: #657b83;
-  background: #eee8d5;
-  padding: 10px;
-  border-radius: 0.2em;
-  box-shadow: #D6D1C0 0 0 0.1em 0.1em;
+  padding: 0.5em;
+  border-top: 1px solid #93a1a1;
+  border-bottom: 1px solid #93a1a1;
+}
+
+code {
+  font-family: Consolas, monospace;
 }
 
 code > span.kw {
