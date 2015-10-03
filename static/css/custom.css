@@ -77,20 +77,22 @@ div#search {
   float: right;
 }
 
+#searchform {
+  margin-top: 0em;
+}
+
 #searchform input[type='text'] {
   border-radius: 0.2em;
   border: 1px solid #93a1a1;
   background: #ffffff;
+  float: left;
+  margin-top: 0.5em;
 }
 
-#searchform input[type='submit'] {
-  background: #eee8d5;
-  color: #586e75;
-  border-radius: 0.2em;
-  border: 1px solid #93a1a1;
-  line-height: 1.5em;
-  padding-left: 0.5em;
-  padding-right: 0.5em;
+#searchform input[type='image'] {
+  padding-left: 1em;
+  position: relative;
+  top: 0em;
 }
 
 #content {
