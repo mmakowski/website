@@ -354,6 +354,15 @@ div.diagram {
     width: 100%;
   }
 
+  header {
+    position: relative;
+    height: 7em;
+  }
+
+  nav > ul > li.edit {
+    padding-left: 30px;
+  }
+
   #content {
     margin: 0px;
   }
