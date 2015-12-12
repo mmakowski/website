@@ -5,8 +5,8 @@
     }
     
     var graphPres = document.getElementsByClassName("dot");
-    for (var i = 0; i < graphPres.length; ++i) {
-      var graphPre = graphPres[i];
+    while (graphPres.length > 0) {
+      var graphPre = graphPres[0];
       var graphCode = unHtmlify(graphPre.getElementsByTagName('code')[0].innerHTML);
       var graphSvg = document.createElement("div");
       graphSvg.className = "diagram";
