@@ -297,6 +297,8 @@ pre {
 
 code {
   font-family: Consolas, monospace;
+  border: none;
+  background-color: #ffffff;
 }
 
 code > span.kw {
