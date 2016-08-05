@@ -1,0 +1,9 @@
+#!/bin/bash
+
+set -ex
+
+SCRIPT_DIR=$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)
+pushd $SCRIPT_DIR/wikidata
+/usr/bin/git pull --rebase # TODO: notify if there are conflicts
+/usr/bin/git push
+popd
