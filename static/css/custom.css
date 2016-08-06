@@ -11,8 +11,7 @@ body {
   background: #ffffff;
   margin: 0em;
   padding: 0em;
-  font-family: Georgia, Times, "Times New Roman", serif;
-  font-size: 14px;
+  font-family: Georgia, serif;
   text-align: center;
 }
 
@@ -105,7 +104,7 @@ textarea:focus, input[type='text']:focus, input[type='password']:focus, select:f
   border: 0px;
   background-color: #ffffff;
   color: #657b83;
-  font-size: 17px;
+  font-size: 1.2em;
 }
 
 #content p, #content li, #content table, #content dl {
@@ -207,9 +206,8 @@ select:focus {
 
 h1, h2, h3, h4, h5, h6 {
   color: #657b83;
-}
-
-h1, h2, h3, h4, h5, h6 {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 700;
   border-bottom: 0px;
 }
 
