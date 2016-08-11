@@ -1,6 +1,7 @@
   <script src="/js/viz.js"></script>
   <script>
-    function unHtmlify(s) {
+  /*  
+  function unHtmlify(s) {
       return s.replace(/&lt;/g, "<").replace(/&gt;/g, ">");
     }
     
@@ -17,4 +18,5 @@
         console.log(e.toString());
       }
     }
+*/
   </script>  
