@@ -186,6 +186,10 @@ div.tool-category * {
   list-style-type: none;
 }
 
+div.figure {
+  text-align: center;
+}
+
 #exportbox {
   margin: 0.3em 0 0.5em 0;
 }
