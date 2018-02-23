@@ -9,7 +9,7 @@
       <li><a href="$base$$pageUrl$?printable$if(revision)$&amp;revision=$revision$$endif$">Printable version</a></li>
       <li><a href="$base$/_delete$pageUrl$">Delete</a></li>
       $if(feed)$
-      <li><a href="$base$/_feed$pageUrl$" type="application/atom+xml" rel="alternate" title="This page's ATOM Feed">Atom feed</a> <img alt="feed icon" src="$base$/img/icons/feed.png"/></li>
+      <li><a href="$base$/_feed$pageUrl$" type="application/atom+xml" rel="alternate" title="This page's ATOM Feed">Atom feed</a></li>
       $endif$
       <li>$exportbox$</li>
     </ul>
