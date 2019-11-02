@@ -1,14 +1,30 @@
 @import url("screen.css"); /* default gitit screen styles */
 @import url("hk-pyg.css"); /* for syntax highlighting */
 
-/* Put your custom style modifications here: */
+:root {
+  --bg-color: #ffffff
+  --primary-color: #657b83;
+  --nav-color: #93a1a1;
+  --secondary-color: #93a1a1;
+  --link-color: #268bd2;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg-color: #282828;
+    --primary-color: #bababa;
+    --nav-color: #686868;
+    --secondary-color: #505050;
+    --link-color: #91c4e3;
+  }
+}
 
 html {
-  background: #ffffff;
+  background: var(--bg-color);
 }
 
 body {
-  background: #ffffff;
+  background: var(--bg-color);
   margin: 0em;
   padding: 0em;
   font-family: Georgia, serif;
@@ -28,18 +44,18 @@ header {
   top: 0px;
   width: inherit;
   height: 4em;
-  background: #ffffff;
+  background: var(--bg-color);
   display: block;
   z-index: 5000;
-  border-bottom: 1px solid #93a1a1;
+  border-bottom: 1px solid var(--nav-color);
 }
 
 header a:link {
-  color: #93a1a1;
+  color: var(--nav-color);
 }
 
 header a:visited {
-  color: #93a1a1;
+  color: var(--nav-color);
 }
 
 nav {
@@ -82,14 +98,15 @@ div#search {
 
 #searchform input[type='text'] {
   border-radius: 0.2em;
-  border: 1px solid #93a1a1;
-  background: #ffffff;
+  border: 1px solid var(--nav-color);
+  background: var(--bg-color);
+  color: var(--primary-color);
   float: left;
   margin-top: 0.5em;
 }
 
 textarea:focus, input[type='text']:focus, input[type='password']:focus, select:focus { 
-  border-color: #93a1a1; 
+  border-color: var(--nav-color); 
   outline: none; 
 }
 
@@ -102,14 +119,14 @@ textarea:focus, input[type='text']:focus, input[type='password']:focus, select:f
 #content {
   margin: 3em 0em 0em 0em;
   border: 0px;
-  background-color: #ffffff;
-  color: #657b83;
+  background-color: var(--bg-color);
+  color: var(--primary-color);
   font-size: 1.2em;
 }
 
 #content p, #content li, #content table, #content dl {
   font-family: Georgia, Times, "Times New Roman", serif;
-  color: #657b83;
+  color: var(--primary-color);
   line-height: 1.5em;
 }
 
@@ -125,28 +142,28 @@ th, td {
 }
 
 div#TOC {
-  background-color: #ffffff;
+  background-color: var(--bg-color);
   border: none;
   float: right;
 }
 
 div#categoryList {
   border-radius: 0.2em;
-  border: 1px dotted #93a1a1;
+  border: 1px dotted var(--nav-color);
 }
 
 
 footer {
-  color: #93a1a1;
+  color: var(--nav-color);
   text-align: center;
 }
 
 footer > a:link {
-  color: #93a1a1;
+  color: var(--nav-color);
 }
 
 footer > a:visited {
-  color: #93a1a1;
+  color: var(--nav-color);
 }
 
 #tools {
@@ -165,11 +182,11 @@ div.tool-category {
 }
 
 div.tool-category a:link {
-  color: #93a1a1;
+  color: var(--nav-color);
 }
 
 div.tool-category a:visited {
-  color: #93a1a1;
+  color: var(--nav-color);
 }
 
 div.filler {
@@ -182,7 +199,7 @@ div.tool-category fieldset {
 }
 
 div.tool-category * {
-  color: #93a1a1;
+  color: var(--nav-color);
   text-decoration: none;
   list-style-type: none;
 }
@@ -196,13 +213,14 @@ div.figure {
 }
 
 #exportbox select {
-  background: #ffffff;
-  border: 1px solid #719cc5;
+  background: var(--bg-color);
+  color: var(--nav-color);
+  border: 1px solid var(--nav-color);
 }
 
 #exportbox input[type="submit"] {
-  /*background: #385f85;*/
-  border: 1px solid #719cc5;
+  background: var(--bg-color);
+  border: 1px solid var(--nav-color);
 }
 
 select:focus {
@@ -210,7 +228,7 @@ select:focus {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #657b83;
+  color: var(--primary-color);
   font-family: 'Open Sans', sans-serif;
   font-weight: 700;
   border-bottom: 0px;
@@ -222,16 +240,16 @@ h3 > a:link, h3 > a:active, h3 > a:hover, h3 > a:focus, h3 > a:visited,
 h4 > a:link, h4 > a:active, h4 > a:hover, h4 > a:focus, h4 > a:visited, 
 h5 > a:link, h5 > a:active, h5 > a:hover, h5 > a:focus, h5 > a:visited, 
 h6 > a:link, h6 > a:active, h6 > a:hover, h6 > a:focus, h6 > a:visited {
-  color: #657b83;
+  color: var(--primary-color);
 }
 
 a:link {
-  color: #268bd2;
+  color: var(--link-color);
   text-decoration: none;
 }
 
 a:visited {
-  color: #268bd2;
+  color: var(--link-color);
   text-decoration: none;
 }
 
@@ -274,7 +292,7 @@ a:visited {
 }
 
 .map {
-  border: 1px solid black;
+  border: 1px solid var(--nav-color);
   margin: 0 auto;
   display: block;
 }
@@ -282,26 +300,26 @@ a:visited {
 .map-right {
   float: right;
   clear: right;
-  border: 1px solid black;
+  border: 1px solid var(--nav-color);
   margin: 0 0 1em 1em;
 }
 
 blockquote {
-  color: #444444;
+  color: var(--primary-color);
   font-style: italic;
 }
 
 pre {
-  color: #657b83;
+  color: var(--primary-color);
   padding: 0.5em;
-  border-top: 1px solid #93a1a1;
-  border-bottom: 1px solid #93a1a1;
+  border-top: 1px solid var(--secondary-color);
+  border-bottom: 1px solid var(--secondary-color);
 }
 
 code {
   font-family: Consolas, monospace;
   border: none;
-  background-color: #ffffff;
+  background-color: var(--bg-color);
 }
 
 code > span.kw {
@@ -342,8 +360,8 @@ code > span.co {
 }
 
 .asciiart {
-  color: #657b83;
-  background: #ffffff;
+  color: var(--primary-color);
+  background: var(--bg-color);
   border: none;
   box-shadow: none;
 }
@@ -372,3 +390,4 @@ div.diagram {
     margin: 0px;
   }
 }
+
