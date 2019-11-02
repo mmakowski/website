@@ -100,7 +100,7 @@ div#search {
   border-radius: 0.2em;
   border: 1px solid var(--nav-color);
   background: var(--bg-color);
-  color: var(--primary-color);
+  color: var(--primary-color) !important;
   float: left;
   margin-top: 0.5em;
 }
@@ -152,6 +152,11 @@ div#categoryList {
   border: 1px dotted var(--nav-color);
 }
 
+textarea, input[type='text'], input[type='password'], select {
+  background: var(--bg-color);
+  color: var(--primary-color);
+  border: 1px solid var(--secondary-color);
+}
 
 footer {
   color: var(--nav-color);
