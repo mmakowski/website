@@ -5,7 +5,7 @@
   --bg-color: #ffffff;
   --primary-color: #657b83;
   --nav-color: #93a1a1;
-  --secondary-color: #93a1a1;
+  --secondary-color: #e4e7e7;
   --link-color: #268bd2;
 }
 
@@ -368,6 +368,7 @@ pre {
 code {
   font-family: Iosevka, PragmataPro, Consolas, monospace;
   border: none;
+  line-height: 1.5rem;
   background-color: var(--bg-color);
 }
 
