@@ -8,14 +8,13 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="32"
    height="32"
    id="svg4134"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    sodipodi:docname="edit.svg"
    inkscape:export-filename="/home/mmakowski/Projects/website/static/img/tech.png"
    inkscape:export-xdpi="44.202209"
@@ -46,15 +45,6 @@
          offset="0"
          id="stop6470" />
     </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient6468"
-       id="linearGradient7296"
-       gradientUnits="userSpaceOnUse"
-       x1="0.06160409"
-       y1="1036.4526"
-       x2="31.804919"
-       y2="1036.4526" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -64,14 +54,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="31.678384"
-     inkscape:cx="15.369506"
+     inkscape:cx="9.7189652"
      inkscape:cy="19.523658"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      width="64px"
-     inkscape:window-width="2560"
-     inkscape:window-height="1440"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
@@ -85,7 +75,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -95,7 +85,7 @@
      id="layer1"
      transform="translate(0,-1020.3622)">
     <ellipse
-       style="fill:none;stroke:url(#linearGradient7296);stroke-width:0.98209554;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.96419104, 1.96419104;stroke-dashoffset:0;stroke-opacity:1"
+       style="fill:none;stroke:#a00000;stroke-width:0.98209554;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.96419104, 1.96419104000000000;stroke-dashoffset:0;stroke-opacity:0.3764706"
        id="path5199"
        cx="15.84241"
        cy="1036.7313"
