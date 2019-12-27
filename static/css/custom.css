@@ -2,11 +2,21 @@
 @import url("hk-pyg.css"); /* for syntax highlighting */
 
 :root {
-  --bg-color: #ffffff;
-  --primary-color: #657b83;
-  --nav-color: #93a1a1;
+  --bg-color: #fffff8;
+  --primary-color: #111;
+  --nav-color: #a00000;
   --secondary-color: #e4e7e7;
   --link-color: #268bd2;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg-color: #282828;
+    --primary-color: #bababa;
+    --nav-color: #686868;
+    --secondary-color: #505050;
+    --link-color: #91c4e3;
+  }
 }
 
 @font-face {
@@ -41,16 +51,6 @@
     font-style: normal
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --bg-color: #282828;
-    --primary-color: #bababa;
-    --nav-color: #686868;
-    --secondary-color: #505050;
-    --link-color: #91c4e3;
-  }
-}
-
 html {
   background: var(--bg-color);
 }
@@ -59,7 +59,7 @@ body {
   background: var(--bg-color);
   margin: 0em;
   padding: 0em;
-  font-family: Georgia, serif;
+  font-family: et-book,Palatino,"Palatino Linotype","Palatino LT STD","Book Antiqua",Georgia,serif;;
   text-align: center;
 }
 
@@ -158,9 +158,10 @@ textarea:focus, input[type='text']:focus, input[type='password']:focus, select:f
 }
 
 #content p, #content li, #content table, #content dl {
-  font-family: et-book,Palatino,"Palatino Linotype","Palatino LT STD","Book Antiqua",Georgia,serif;
+  /*font-family: et-book,Palatino,"Palatino Linotype","Palatino LT STD","Book Antiqua",Georgia,serif;*/
   color: var(--primary-color);
   font-size: 1.3rem;
+  line-height: 2rem;
 }
 
 #content pre {
@@ -181,7 +182,7 @@ div#TOC {
 
 div#categoryList {
   border-radius: 0.2em;
-  border: 1px dotted var(--nav-color);
+  border: 1px dotted var(--secondary-color);
 }
 
 textarea, input[type='text'], input[type='password'], select {
@@ -191,23 +192,27 @@ textarea, input[type='text'], input[type='password'], select {
 }
 
 footer {
-  color: var(--nav-color);
+  color: var(--primary-color);
   text-align: center;
+  font-style: italic;
+  font-size: 1rem;
+  margin-top: 3em;
 }
 
 footer > a:link {
-  color: var(--nav-color);
+  color: var(--primary-color);
+  text-decoration: underline;
 }
 
 footer > a:visited {
-  color: var(--nav-color);
+  color: var(--primary-color);
 }
 
 #tools {
   font-family: "Gill Sans","Gill Sans MT","Lato",Calibri,sans-serif;
   margin-left: 1em;
   margin-right: 1em;
-  margin-top: 10em;
+  margin-top: 3em;
 }
 
 #logo {
@@ -239,6 +244,21 @@ div.tool-category * {
   color: var(--nav-color);
   text-decoration: none;
   list-style-type: none;
+}
+
+div.tool-category li, div.tool-category ul, div.tool-category form {
+  display: inline; 
+}
+
+div.tool-category legend {
+  float: left;
+  padding: 0em 1em 0em 2em;
+}
+
+div.tool-category li:not(:first-child):before {
+  content: "·";
+  padding-left: 0.5em;
+  padding-right: 0.5em;
 }
 
 div.figure {
@@ -278,9 +298,12 @@ h1, h1.pageTitle {
 h2 {
   font-weight: 400;
   font-size: 2.2rem;
-  font-style: italic;
   margin-top: 4rem;
   margin-bottom: 1.4rem;
+}
+
+h2, h3, h4 {
+  font-style: italic;
 }
 
 h1 > a:link, h1 > a:active, h1 > a:hover, h1 > a:focus, h1 > a:visited, 
