@@ -6,7 +6,6 @@
   --primary-color: #111;
   --nav-color: #a00000;
   --secondary-color: #e4e7e7;
-  --link-color: #268bd2;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -15,7 +14,6 @@
     --primary-color: #bababa;
     --nav-color: #686868;
     --secondary-color: #505050;
-    --link-color: #91c4e3;
   }
 }
 
@@ -306,23 +304,14 @@ h2, h3, h4 {
   font-style: italic;
 }
 
-h1 > a:link, h1 > a:active, h1 > a:hover, h1 > a:focus, h1 > a:visited, 
-h2 > a:link, h2 > a:active, h2 > a:hover, h2 > a:focus, h2 > a:visited, 
-h3 > a:link, h3 > a:active, h3 > a:hover, h3 > a:focus, h3 > a:visited, 
-h4 > a:link, h4 > a:active, h4 > a:hover, h4 > a:focus, h4 > a:visited, 
-h5 > a:link, h5 > a:active, h5 > a:hover, h5 > a:focus, h5 > a:visited, 
-h6 > a:link, h6 > a:active, h6 > a:hover, h6 > a:focus, h6 > a:visited {
-  color: var(--primary-color);
-}
-
 a:link {
-  color: var(--link-color);
-  text-decoration: none;
+  color: var(--primary-color);
+  text-decoration: underline;
 }
 
 a:visited {
-  color: var(--link-color);
-  text-decoration: none;
+  color: var(--primary-color);
+  text-decoration: underline;
 }
 
 .frontpage-thumbnail {
